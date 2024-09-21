@@ -143,3 +143,17 @@ or (less preferably) email me.
   teach math for the sake of explaining math well, in a way that is fun and
   accessible, with proper rigour if needed, and not for the sake of doing
   well on math competitions.
+
+  ## {{ h1("tudor", "Tudor Popescu") }}
+  Contact: $\text{tudordpopescu}@\text{yahoo}{.}\text{com}$
+- Open to both 1:1 and group lessons.
+- After graduating from Carnegie Mellon in 2021, I realized that my decade-long
+  journey as a participant in mathematical competitions was coming to an end. I
+  decided to give back what I had learned and started preparing students for
+  olympiads, both privately and in summer camps, such as the Awesome Math Summer 
+  Program and the International Mathematics Summer Camp (in Beijing, where I
+  trained several IMO teams). I am currently doing my PhD in Algebraic Number
+  Theory at Brandeis University, but in my free time I am offering private
+  tutoring. Most of my students are preparing for USA(J)MO, but I am happy to
+  work with students of any mathematical ability (although you should be very
+  motivated and love math).
